@@ -1,5 +1,5 @@
 # Handwritten Digit Recognition
-A neural network model for recognizing handwritten digits from the MNIST dataset, achieving 92.11% accuracy on training data and 89.87% during cross-validation.
+A neural network model for recognizing handwritten digits from the MNIST dataset, achieving 92.40% accuracy on training data and 89.87% during cross-validation.
 
 ## Description
 In this project, a neural network was developed for recognizing handwritten digits using the MNIST dataset. The architecture of the network consists of one input layer, two hidden layers, and one output layer. The sigmoid activation function is applied in the hidden layers, while softmax is used in the output layer for multi-class classification.
