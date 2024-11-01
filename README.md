@@ -6,4 +6,4 @@ In this project, a neural network was developed for recognizing handwritten digi
 
 The project includes data loading and preprocessing, including normalization of pixel values of the images and transforming them from matrices into vectors. The neural network is trained using stochastic gradient descent, and its performance is evaluated using metrics such as accuracy, F1-score, and ROC-AUC.
 
-The project demonstrates good performance: the accuracy on training data was 92.11%, while on test data during cross-validation it was about 89.87%. The model shows a high ability to distinguish digits, recognizing 8-9 out of 10.
+The project demonstrates good performance: the accuracy on training data was 92.40%, while on test data during cross-validation it was about 89.87%. The model shows a high ability to distinguish digits, recognizing 8-9 out of 10.
